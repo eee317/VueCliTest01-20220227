@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkitty_home"]=self["webpackChunkkitty_home"]||[]).push([[16],{8016:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var u=e(6252);const r=(0,u._)("h2",null,"後台",-1);function c(n,t){const e=(0,u.up)("router-view");return(0,u.wg)(),(0,u.iD)(u.HY,null,[r,(0,u.Wm)(e)],64)}var o=e(3744);const i={},s=(0,o.Z)(i,[["render",c]]);var l=s}}]);
+//# sourceMappingURL=16.c51f72ec.js.map
